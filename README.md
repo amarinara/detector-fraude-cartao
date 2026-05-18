@@ -1,4 +1,4 @@
-# 💳 Detetor de Fraudes em Cartões de Crédito
+# 💳 Detector de Fraudes em Cartões de Crédito
 
 Este projeto demonstra a aplicação prática de um algoritmo de **Aprendizado Supervisionado de Classificação** para identificar transações financeiras fraudulentas.
 
